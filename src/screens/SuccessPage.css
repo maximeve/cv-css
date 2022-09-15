@@ -1,0 +1,36 @@
+.successPage__container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../public/success.png');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+.successPage__container_header{
+    font-family: 'Playfair Display', serif;
+    font-size: 100px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+} 
+.successPage__container_text{
+    color: gray;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+} 
+.successPage__container_button{
+    padding: 30px;
+    margin: 10px;
+    background-color: #2196f3;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+} 

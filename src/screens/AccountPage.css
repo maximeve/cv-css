@@ -1,0 +1,13 @@
+.AccountpageContainer{
+    display: flex;
+    
+}
+
+.Accountpage__right{
+    width: 85%;
+    height: 100%;
+}
+.Accountpage__left{
+    width: 15%;
+    height: 100%;
+}
